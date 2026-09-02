@@ -2,7 +2,7 @@
  
 * Project Name: NGO - CMS
 * Prepared By: Tuishim Sarang
-* Organization: COdeB
+* Organization: CodeB
 * Location: Pimpri Chinchwad
 
 ## Introduction and Company Profile
